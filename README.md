@@ -1,8 +1,7 @@
-- 👋 Haihaihai! I’m @Comfident
-- 👀 I’m interested in life!
-- 🌱 I’m currently learning NOTHING!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : my e-mail :2529719836@qq.com
+- 👋 Haihaihai! I’m a Comfident boy(not a man!)
+- 👀 I’m interested in the nice things!
+- 🌱 I’m currently learning Java and Web!
+- 📫 How to reach me : my e-mail :gcomfident@gmail.com
 
 <!---
 Comfident/Comfident is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
